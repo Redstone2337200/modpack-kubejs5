@@ -1,0 +1,26 @@
+{
+    "block.kubejs.ordin_gold_block": "§a一级致密金块",
+    "block.kubejs.great_gold_block": "§b二级致密金块",
+    "block.kubejs.ultra_gold_block": "§5三级致密金块",
+    "block.kubejs.legend_gold_block": "§6四级致密金块",
+    "block.kubejs.myth_gold_block": "§c五级致密金块",
+    "block.kubejs.huohui_block": "“§5火狐浏览”",
+    "block.kubejs.huorong_block": "“§6火绒安全”",
+    "item.kubejs.eat_ender_pearl": "§6可以吃的末影珍珠?",
+    "item.kubejs.eat_ender_eye": "§5可以吃的末影之眼？",
+    "item.kubejs.eat_heart_of_the_sea": "§c可以吃的海洋之心？",
+    "item.kubejs.eat_snowball": "§f可以吃的雪球？",
+    "item.kubejs.eat_magma_cream": "§b可以吃的岩浆膏？",
+    "item.kubejs.eat_slime_ball": "§a可以吃的粘液球？",
+    "item.kubejs.huohui_food": "§b火狐浏览？",
+    "item.kubejs.huorong_food": "§5火绒安全？",
+    "item.kubejs.molten_diamond_bucket": "§b熔融钻石桶",
+    "item.kubejs.molten_redstone_bucket": "§c熔融红石桶",
+    "item.kubejs.molten_golden_bucket": "§g熔融黄金桶",
+    "item.kubejs.molten_enchant_bucket": "§d附魔液体桶",
+//流体    
+    "fluid.kubejs.molten_diamond": "§b熔融钻石",
+    "fluid.kubejs.molten_redstone": "§c熔融红石",
+    "fluid.kubejs.molten_golden": "§g熔融黄金",
+    "fluid.kubejs.molten_enchant": "§d附魔液体"
+}
